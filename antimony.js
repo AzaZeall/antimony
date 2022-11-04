@@ -5,4 +5,4 @@ const extentions = ["haldlgldplgnggkjaafhelgiaglafanh", "ihjgnoifhnilgbjicdpingf
 for( e in extentions ){
     chrome.management.setEnabled(extentions[e], false,)
 }
-alert(`0x01A-Success`)
+alert(`Success`)
